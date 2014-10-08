@@ -17,6 +17,7 @@ Screenshot:
 * CSS
 * JavaScript
 * jQuery
+* JSON
 * MustacheJS
 * Greenshot (for screenshot capturing)
 * Gimp (for screenshot editing)
