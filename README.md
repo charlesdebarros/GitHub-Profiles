@@ -6,3 +6,7 @@ The app aims to pull information on a particular user's GitHub account - in this
 The app is capable of showing error messages if the input is not a valid user name. And it is possible to remove generated information on the app.
 
 This task was set by [Alex Peattie](https://github.com/alexpeattie) as part of [Makers Academy](http://makersacademy.com/)'s Week 8 tasks.
+
+Screenshot:
+
+![image](https://raw.githubusercontent.com/charlesdebarros/Github-Profiles/master/images/screenshot.jpg)
