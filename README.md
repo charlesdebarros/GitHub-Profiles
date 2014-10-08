@@ -24,7 +24,7 @@ Screenshot:
 
 * Download or clone the appliation
 * Open github.html in your favourite web browser
-* Type a github profile and click on "load profile"
+* Type a github profile name in the search box and click on "load profile"
 * See the github profile details pop on your screen.
 
 ###TODO
