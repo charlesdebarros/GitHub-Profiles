@@ -10,3 +10,13 @@ This task was set by [Alex Peattie](https://github.com/alexpeattie) as part of [
 Screenshot:
 
 ![image](https://raw.githubusercontent.com/charlesdebarros/Github-Profiles/master/images/screenshot.jpg)
+
+###Technologies used
+
+* HTML
+* CSS
+* JavaScript
+* jQuery
+* MustacheJS
+* Greenshot (for screenshot capturing)
+* Gimp (for screenshot editing)
