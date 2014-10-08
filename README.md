@@ -21,3 +21,8 @@ Screenshot:
 * MustacheJS
 * Greenshot (for screenshot capturing)
 * Gimp (for screenshot editing)
+
+###TODO
+
+* Style application further
+* Make app html code responsive
